@@ -1,20 +1,9 @@
 # Flask RESTplus
 
-Talk stuff
-
-
-### Flow and Ideas
-
-already know APIs 
-
-show flask POST code 
-
-show basic restplus code 
-
-show why use the meta code because of documentation and ease
+Code used in Avi's talk on Flask RESTplus.
 
 
 ### Code Screenshots
 
-Used Carbon with Solarized (Dark), #343434 - A100 background.
-Used Verminal for bash shells
+* Used [Carbon](https://carbon.now.sh/) with Solarized (Dark), #343434 - A100 background.
+* Used Verminal theme for bash shell screenshots
