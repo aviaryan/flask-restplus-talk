@@ -22,6 +22,7 @@ class TodoWithModel(Resource):
 app.run(debug=True)
 
 """
-curl -X GET --header 'Accept: application/json' --header 'Authorization: secret_token' 'http://localhost:5000/todos/t1?indent=4'
+curl -X GET --header 'Accept: application/json' \
+	--header 'Authorization: secret_token' 'http://localhost:5000/todos/t1?indent=4'
 """
 
